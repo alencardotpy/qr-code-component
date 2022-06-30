@@ -27,3 +27,6 @@ yarn-error.log*
 .env
 .env.build
 .vercel
+
+# Frontend-project - initial files downloaded from frontend mentor.
+/frontend-project
