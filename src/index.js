@@ -5,7 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { sendToVercelAnalytics } from "./vitals";
 
-const container = documento.getElementById("root");
+const container = document.getElementById("root");
 const root = createRoot(container);
 
 root.render(
