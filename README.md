@@ -1,31 +1,53 @@
-# Create React App
+# Frontend Mentor - QR code component solution
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Deploy Your Own
+## Table of contents
 
-Deploy your own Create React App project with Vercel.
+- [Overview](#overview)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+### Screenshots
 
-_Live Example: https://create-react-template.vercel.app/_
+#### Desktop view
 
-## Available Scripts
+![Desktop View Screenshot](./screenshot_1.png)
 
-In the project directory, you can run:
+#### Mobile view
 
-### `npm start`
+![Mobile View Screenshot](./screenshot_2.png)
 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Links
 
-The page will reload when you make changes. You may also see any lint errors in the console.
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-### `npm test`
+## My process
 
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Built with
 
-### `npm run build`
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [BEM Methodology](http://getbem.com/) - For styles.
 
-Builds the app for production to the `build` folder.
+### Continued development
 
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+Let's try some more challenges and technologies.
+
+## Author
+
+- Github - [alencardotpy](https://github.com/alencardotpy)
+- Frontend Mentor - [@alencardotpy](https://www.frontendmentor.io/profile/alencardotpy)
+- Twitter - [@alencardotpy](https://www.twitter.com/alencardotpy)
+
+## Acknowledgments
+
+This kinda projects are great to work on as you can do by your "level", If you would like to practice, I suggest [Frontent Mentor](https://www.frontendmentor.io/), why not right?
