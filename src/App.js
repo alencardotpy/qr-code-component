@@ -15,7 +15,6 @@ const Card = () => {
     <div className="card">
       <img src={qrCode} alt="" className="card__image" />
       <h1 className="card__title">
-        {" "}
         Improve your front-end skills by building projects
       </h1>
       <p className="card__text">
@@ -41,9 +40,8 @@ const Attribution = () => {
         Coded by:
         <a
           className="attribution__link"
-          href="d"
+          href="https://github.com/alencardotpy"
           target="_blank"
-          rel="noreferer"
         >
           alencarDotPy
         </a>
