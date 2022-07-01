@@ -14,10 +14,10 @@ const Card = () => {
   return (
     <div className="card">
       <img src={qrCode} alt="" className="card__image" />
-      <p className="card__title">
+      <h1 className="card__title">
         {" "}
         Improve your front-end skills by building projects
-      </p>
+      </h1>
       <p className="card__text">
         Scan the QR code to visit Frontend Mentor and take your coding skills to
         the next level
@@ -34,7 +34,6 @@ const Attribution = () => {
         <a
           href="https://www.frontendmentor.io?ref=challenge"
           target="_blank"
-          rel="noreferrer"
           className="attribution__link"
         >
           Frontend Mentor.
